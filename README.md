@@ -158,12 +158,3 @@ http://localhost:5000
 | POST | `/api/admin/login` | Admin login |
 | POST | `/api/customer/login` | Customer login |
 
-## Future Improvements
-
-- Secure authentication and authorization
-- Password hashing and session management
-- Payment gateway integration
-- Order history and tracking
-- Book search and filtering
-- Customer reviews and ratings
-- Enhanced mobile responsiveness
